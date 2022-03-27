@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am pritam</h1>
 
 - 🌱 I’m currently learning Java programming
-- 🎉 Let's connect [here](https://www.linkedin.com/in/pritamkadam/).
+- 🎉 Let's connect [here](https://www.linkedin.com/in/kadampritam/).
 
 <hr>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
